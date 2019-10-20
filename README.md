@@ -1,6 +1,8 @@
 # machine-learning-notebooks
  machine-learning-notebooks
  
+ Machine Learning is basically the function approximation which predicts things like humans.
+ 
  Steps for building a basic scratch model
  
  1. Describing data from csv files
